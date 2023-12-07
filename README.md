@@ -5,4 +5,4 @@ The S1500 Project
 Dedicated to the preservation of the historic<BR>
 <B>Texas Instruments S1500 / HP 9000 Series 1500.</B>
 <BR></p>
-<p align="center">[ <I><U><B>Restricted access repository</B></U></I> ]<br><br><A HREF="https://github.com/johnsonjh/S1500/discussions?discussions_q=sort%3Atop">Visit the S1500 Project Discussion boards</A>.</p>
+<p align="center"><br><br><A HREF="https://github.com/johnsonjh/S1500/discussions?discussions_q=sort%3Atop">Visit the S1500 Project Discussion boards</A>.</p>
